@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edf3512d-7b35-4497-b7f2-8318f9016411" name="Default" comment="" />
+    <ignored path="laravel.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="laravel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-5-blog" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edf3512d-7b35-4497-b7f2-8318f9016411" name="Default" comment="" />
+      <created>1470393433816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1470393433816</updated>
+      <workItem from="1470393436179" duration="1973000" />
+      <workItem from="1470925023793" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2441000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2544">
+          <caret line="106" column="65" selection-start-line="106" selection-start-column="65" selection-end-line="106" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="131" column="7" selection-start-line="131" selection-start-column="7" selection-end-line="131" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Input/ArgvInput.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="122" column="12" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="12" />
+          <folding>
+            <marker date="1467183741000" expanded="false" signature="9:234" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="344:1228" placeholder=" ArgvInput represents an input coming from the CLI arguments. ..." />
+            <marker date="1467183741000" expanded="true" signature="1260:9939" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="1313:1524" placeholder=" Constructor. ..." />
+            <marker date="1467183741000" expanded="true" signature="1614:1846" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="1650:1697" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="1895:1940" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="1949:1976" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="2009:2679" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="2147:2672" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2196:2255" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2299:2351" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2407:2468" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2533:2595" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2603:2662" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2688:2777" placeholder=" Parses a short option. ..." />
+            <marker date="1467183741000" expanded="true" signature="2825:3320" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="2900:3248" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3028:3166" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3174:3238" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3256:3313" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3329:3492" placeholder=" Parses a short option set. ..." />
+            <marker date="1467183741000" expanded="true" signature="3542:4156" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="3618:4149" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3680:3793" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3911:4054" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4062:4139" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4165:4253" placeholder=" Parses a long option. ..." />
+            <marker date="1467183741000" expanded="true" signature="4300:4556" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="4393:4485" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4493:4549" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4565:4724" placeholder=" Parses an argument. ..." />
+            <marker date="1467183741000" expanded="true" signature="4769:5495" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="4922:5146" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="5250:5408" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="5416:5488" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="5504:5730" placeholder=" Adds a short option value. ..." />
+            <marker date="1467183741000" expanded="true" signature="5787:6065" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="5851:5956" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6074:6292" placeholder=" Adds a long option value. ..." />
+            <marker date="1467183741000" expanded="true" signature="6344:7839" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="6402:6504" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6635:6671" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6731:6842" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6925:7341" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7145:7190" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7215:7257" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7265:7331" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7374:7680" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7420:7532" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7573:7670" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7716:7771" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7779:7832" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7848:7875" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="7916:8097" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="7966:8090" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8013:8052" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8106:8133" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="8204:8607" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="8290:8577" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8340:8383" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8426:8567" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8503:8553" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8616:8643" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="8732:9368" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="8844:9335" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8937:8980" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9024:9325" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9101:9311" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9165:9243" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9377:9491" placeholder=" Returns a stringified representation of the args passed to the command. ..." />
+            <marker date="1467183741000" expanded="true" signature="9526:9937" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="9561:9890" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9580:9874" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9646:9723" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9772:9836" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="106" column="65" selection-start-line="106" selection-start-column="65" selection-end-line="106" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Input/ArgvInput.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="122" column="12" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="12" />
+          <folding>
+            <marker date="1467183741000" expanded="false" signature="9:234" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="344:1228" placeholder=" ArgvInput represents an input coming from the CLI arguments. ..." />
+            <marker date="1467183741000" expanded="true" signature="1260:9939" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="1313:1524" placeholder=" Constructor. ..." />
+            <marker date="1467183741000" expanded="true" signature="1614:1846" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="1650:1697" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="1895:1940" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="1949:1976" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="2009:2679" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="2147:2672" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2196:2255" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2299:2351" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2407:2468" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2533:2595" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2603:2662" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="2688:2777" placeholder=" Parses a short option. ..." />
+            <marker date="1467183741000" expanded="true" signature="2825:3320" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="2900:3248" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3028:3166" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3174:3238" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3256:3313" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3329:3492" placeholder=" Parses a short option set. ..." />
+            <marker date="1467183741000" expanded="true" signature="3542:4156" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="3618:4149" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3680:3793" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="3911:4054" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4062:4139" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4165:4253" placeholder=" Parses a long option. ..." />
+            <marker date="1467183741000" expanded="true" signature="4300:4556" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="4393:4485" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4493:4549" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="4565:4724" placeholder=" Parses an argument. ..." />
+            <marker date="1467183741000" expanded="true" signature="4769:5495" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="4922:5146" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="5250:5408" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="5416:5488" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="5504:5730" placeholder=" Adds a short option value. ..." />
+            <marker date="1467183741000" expanded="true" signature="5787:6065" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="5851:5956" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6074:6292" placeholder=" Adds a long option value. ..." />
+            <marker date="1467183741000" expanded="true" signature="6344:7839" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="6402:6504" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6635:6671" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6731:6842" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="6925:7341" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7145:7190" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7215:7257" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7265:7331" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7374:7680" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7420:7532" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7573:7670" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7716:7771" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7779:7832" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="7848:7875" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="7916:8097" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="7966:8090" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8013:8052" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8106:8133" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="8204:8607" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="8290:8577" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8340:8383" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8426:8567" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8503:8553" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8616:8643" placeholder=" {@inheritdoc} ..." />
+            <marker date="1467183741000" expanded="true" signature="8732:9368" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="8844:9335" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="8937:8980" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9024:9325" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9101:9311" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9165:9243" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9377:9491" placeholder=" Returns a stringified representation of the args passed to the command. ..." />
+            <marker date="1467183741000" expanded="true" signature="9526:9937" placeholder="{...}" />
+            <marker date="1467183741000" expanded="true" signature="9561:9890" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9580:9874" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9646:9723" placeholder="..." />
+            <marker date="1467183741000" expanded="true" signature="9772:9836" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14657">
+          <caret line="131" column="7" selection-start-line="131" selection-start-column="7" selection-end-line="131" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
